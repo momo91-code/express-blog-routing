@@ -15,8 +15,6 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "post": "node posts.js",
-    "posts": "node  --watch posts.js",
     "dev": "node --watch app.js",
     "start": "node app.js"
   },
